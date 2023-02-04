@@ -1,6 +1,6 @@
 # vuex-thenetninja-tutorials
 
-This template should help get you started developing with Vue 3 in Vite.
+This is Vuex Tutorial by The Net Ninja.
 
 ## Recommended IDE Setup
 
